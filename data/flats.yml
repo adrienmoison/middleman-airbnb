@@ -1,0 +1,21 @@
+adrienmoison:
+  name: "Adrien Moison"
+  description: "Coolest room in Nantes"
+  city_name: "Nantes, France"
+  city_slug: "nantes"
+  wifi: true
+  rating: 5
+comehugdelarauze:
+  name: "Come de Larauze"
+  description: "Cheapest room in Bordeaux"
+  city_name: "Bordeaux, France"
+  city_slug: "bordeaux"
+  wifi: false
+  rating: 1
+mathieuabmont:
+  name: "Matthieu Abmont"
+  description: "Best room in La Défense"
+  city_name: "Courbevoie, France"
+  city_slug: "courbevoie"
+  wifi: true
+  rating: 4
